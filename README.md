@@ -1,11 +1,11 @@
 # SkinDetectionDemo
 A basic python code for skin detection using hsv skin color range
 
-Prerequisites:
-pip install virtualenv
-cd your_project
-virtualenv env
-\path\to\env\Scripts\activate
-#example C:\Users\'Username'\venv\Scripts\activate.bat
-pip install opencv-python
-python invisible_skin.py
+Prerequisites:<br/>
+pip install virtualenv <br/>
+cd your_project<br/>
+virtualenv env<br/>
+#type this wrt Username <br/>
+C:\Users\'Username'\venv\Scripts\activate.bat <br/>
+pip install opencv-python <br/>
+python invisible_skin.py <br/>
